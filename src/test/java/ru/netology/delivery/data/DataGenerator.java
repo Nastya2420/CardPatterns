@@ -1,8 +1,7 @@
 package ru.netology.delivery.data;
 
 import com.github.javafaker.Faker;
-import lombok.Value;
-import org.junit.jupiter.api.BeforeAll;
+
 
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
